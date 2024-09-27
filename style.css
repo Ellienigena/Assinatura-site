@@ -67,3 +67,30 @@ body {
     margin: 0 6em;
 }
 
+.sucundaro_imagem{
+    width: 80%;
+}
+
+.secundario{
+    align-items: center;
+    margin: 0 10em;
+}
+
+.descriçao_titulo{
+    font-weight: 700;
+    font-size: 48px;
+    color: var(--branco-principal);
+    margin-bottom: 0.1em;
+}
+
+.descriçao_texto{
+    color: var(--cinza-segundario);
+}
+
+.secundario_botao{
+    display: inline-block;
+    margin-top: 1em;
+}
+.container_descriçao{
+    padding: 2em;
+}
